@@ -16,3 +16,11 @@ Navigation option to close the current execution context and return to the main 
 
 Option to close the application
 
+
+----------------------------------------------------------------------------------------------
+Required softwares
+__________________
+
+1. Code Editor - Eclipse IDE
+2. Programing language - java
+
